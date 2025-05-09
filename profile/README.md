@@ -1,10 +1,10 @@
-<div align="center">
+<div>
   <img src="./TideLogo-Wordmark-Blue.png" alt="Tide logo" width="240"/>
 </div>
 
 > **Locking down systems with keys *no one* will ever hold**
 
-Building open-source, provably secure cryptography that lets developers integrate **trust-less identity, access & data protection** into any stack.
+Building open-code, provably secure cryptography that lets developers integrate **provably secure data, identities and access rights** into any stack.
 
 ---
 
