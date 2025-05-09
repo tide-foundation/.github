@@ -11,9 +11,9 @@ Building open-code, provably secure cryptography that lets developers integrate 
 
 | Resource | Description |
 |---|---|
-| **[tidecloak-demo](https://github.com/tide-foundation/tidecloak-demo)** | “Pretty” Next.js Codespaces demo that walks you through TideCloak’s benefits |
-| **[tidecloak-client-nextJS](https://github.com/tide-foundation/tidecloak-client-nextJS)** | Bare-bones Codespaces setup with detailed technical notes |
-| **[tidecloak-gettingstarted](https://github.com/tide-foundation/tidecloak-gettingstarted)** | 10-minute guide to protecting a self-hosted React SPA with TideCloak + Cybersecurity Fabric |
+| **[tidecloak-demo](https://github.com/tide-foundation/tidecloak-demo)** | Tidecloak demo - Your window into the worry free future for developers (2xclick Codespaces spin up) |
+| **[tidecloak-client-nextJS](https://github.com/tide-foundation/tidecloak-client-nextJS)** | Bare-bones Next.js app secured by TideCloak + detailed technical notes (2xclick Codespaces spin up) |
+| **[tidecloak-gettingstarted](https://github.com/tide-foundation/tidecloak-gettingstarted)** | 10-minute guide to protecting a self-hosted React SPA with TideCloak |
 | 📰 **[TideCloak Docs](https://docs.tidecloak.com/docs/intro)** | What you think it is! |
 
 **[Reimagining Cybersecurity for Developers](https://tide.org/blog/rethinking-cybersecurity-for-developers)** Op-ed on the “Breach Assumed” architecture & underlying philosophy
