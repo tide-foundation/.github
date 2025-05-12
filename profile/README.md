@@ -20,15 +20,6 @@ Building open-code, provably secure cryptography that lets developers integrate 
 
 <br />
 
-# Find us 🗨️
-
-- **Discord:** [Tide Foundation]([https://twitter.com/tidefoundation](https://discord.gg/XBMd9ny2q5))
-- **X (Twitter):** [@tidefoundation](https://twitter.com/tidefoundation)
-- **LinkedIn:** [Tide Foundation](https://www.linkedin.com/company/tide-foundation/)
-- **Website:** [tide.org](https://tide.org)
-
-<br />
-
 # Join the Alpha program 🚀
 
 **Your future is provably security.**
@@ -36,5 +27,13 @@ A direct line to the team building Tide, to secure your product with TideCloak, 
 
 [![Join the Alpha](https://img.shields.io/badge/Join_the_Alpha-0A81C4?style=for-the-badge&logo=apachespark&logoColor=white)](https://tide.org/alpha)
 
+<br />
+
+# Find us 🗨️
+
+- [**Discord**](https://discord.gg/XBMd9ny2q5)
+- [**X (Twitter)**](https://twitter.com/tidefoundation)
+- [**LinkedIn**](https://www.linkedin.com/company/tide-foundation/)
+- [**tide.org**](https://tide.org)
 
 *Made with ❤️ by the Tide community.*
