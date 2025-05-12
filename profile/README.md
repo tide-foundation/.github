@@ -16,12 +16,11 @@ Building open-code, provably secure cryptography that lets developers integrate 
 | **[tidecloak-gettingstarted](https://github.com/tide-foundation/tidecloak-gettingstarted)** | 10-minute guide to protecting a self-hosted React SPA with TideCloak |
 | 📰 **[TideCloak Docs](https://docs.tidecloak.com/docs/intro)** | What you think it is! |
 
-**[Reimagining Cybersecurity for Developers](https://tide.org/blog/rethinking-cybersecurity-for-developers)** Op-ed on the “Breach Assumed” architecture & underlying philosophy
+📌 **[Reimagining Cybersecurity for Developers](https://tide.org/blog/rethinking-cybersecurity-for-developers)** Read our op-ed on our technology & underlying philosophy
 
 # Find us 🗨️
 
-[![Discord](https://img.shields.io/discord/968760660659953714?label=Discord&logo=discord)](https://discord.gg/XBMd9ny2q5)
-
+- **Discord:** [Tide Foundation]([https://twitter.com/tidefoundation](https://discord.gg/XBMd9ny2q5))
 - **X (Twitter):** [@tidefoundation](https://twitter.com/tidefoundation)
 - **LinkedIn:** [Tide Foundation](https://www.linkedin.com/company/tide-foundation/)
 - **Website:** [tide.org](https://tide.org)
