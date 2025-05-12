@@ -18,6 +18,8 @@ Building open-code, provably secure cryptography that lets developers integrate 
 
 📌 **[Reimagining Cybersecurity for Developers](https://tide.org/blog/rethinking-cybersecurity-for-developers)** Read our op-ed on our technology & underlying philosophy
 
+<br />
+
 # Find us 🗨️
 
 - **Discord:** [Tide Foundation]([https://twitter.com/tidefoundation](https://discord.gg/XBMd9ny2q5))
@@ -25,6 +27,7 @@ Building open-code, provably secure cryptography that lets developers integrate 
 - **LinkedIn:** [Tide Foundation](https://www.linkedin.com/company/tide-foundation/)
 - **Website:** [tide.org](https://tide.org)
 
+<br />
 
 # Join the Alpha program 🚀
 
