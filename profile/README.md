@@ -31,8 +31,7 @@ A direct line to the team building Tide, to secure your product with TideCloak, 
 
 # Find us 🗨️
 
-- [**Discord**](https://discord.gg/XBMd9ny2q5)
-- [![Discord](https://img.shields.io/discord/968760660659953714?label=Discord&logo=discord)](https://discord.gg/XBMd9ny2q5)
+- [![Members](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2FXBMd9ny2q5%3Fwith_counts%3Dtrue&query=%24.approximate_member_count&label=Members&logo=discord&logoColor=white)](https://discord.gg/XBMd9ny2q5)
 - [**X (Twitter)**](https://twitter.com/tidefoundation)
 - [**LinkedIn**](https://www.linkedin.com/company/tide-foundation/)
 - [**tide.org**](https://tide.org)
