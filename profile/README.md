@@ -4,16 +4,16 @@
 
 > **Locking down systems with keys *no one* will ever hold**
 
-Building open-code, provably secure cryptography that lets developers integrate **provably secure data, identities and access rights** into any stack.
+Open-code technology that lets developers build **provably secure platforms** that locks data, identities and access rights on any stack using its groundbreaking Ineffable Cryptography.
 
 
 # Quick links ⚡️
 
 | Resource | Description |
 |---|---|
-| **[tidecloak-playground](https://github.com/tide-foundation/tidecloak-playground)** | Tidecloak demo - Your window into the worry free future for developers (1 x click setup in Codespaces) |
-| **[tidecloak-client-nextJS](https://github.com/tide-foundation/tidecloak-client-nextJS)** | Bare-bones Next.js app secured by TideCloak + detailed technical notes |
-| **[tidecloak-gettingstarted](https://github.com/tide-foundation/tidecloak-gettingstarted)** | 10-minute guide to protecting a self-hosted React SPA with TideCloak |
+| **[tidecloak-playground](https://github.com/tide-foundation/tidecloak-playground)** | Tidecloak demo - Your window into the worry free future for developers (one click setup in Codespaces) |
+| **[tidecloak-client-nextJS](https://github.com/tide-foundation/tidecloak-client-nextJS)** | Bare-bones Next.js app secure by TideCloak + detailed technical notes |
+| **[tidecloak-gettingstarted](https://github.com/tide-foundation/tidecloak-gettingstarted)** | Protecting a self-hosted React SPA with TideCloak in 10 minutes |
 | 📰 **[TideCloak Docs](https://docs.tidecloak.com/docs/intro)** | What you think it is |
 
 📌 **[Reimagining Cybersecurity for Developers](https://tide.org/blog/rethinking-cybersecurity-for-developers)** Read our op-ed on our technology & underlying philosophy
@@ -22,7 +22,7 @@ Building open-code, provably secure cryptography that lets developers integrate 
 
 # Join the Alpha program 🚀
 
-**Your future is provably security.**
+**Your future is provably secure.**
 A direct line to the team building Tide, to secure your product with TideCloak, introducing provable security, with a seamless user experience.
 
 [![Join the Alpha](https://img.shields.io/badge/Join_the_Alpha-0A81C4?style=for-the-badge&logo=apachespark&logoColor=white)](https://tide.org/alpha)
@@ -36,4 +36,4 @@ A direct line to the team building Tide, to secure your product with TideCloak, 
 - [**LinkedIn**](https://www.linkedin.com/company/tide-foundation/)
 - [**tide.org**](https://tide.org)
 
-*Made with ❤️ by the Tide community.*
+*Made with 🤯 by the Tide community.*
