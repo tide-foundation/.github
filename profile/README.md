@@ -10,9 +10,9 @@ An open-code Identity, **Immunity**, and Access Management system that removes t
 
 | Resource | Description |
 |---|---|
-| **[Codespaces Demo](https://github.com/tide-foundation/tidecloak-playground)** | Tidecloak demo - Your window into the worry free future for developers (one click setup in Codespaces) |
-| **[NextJS Quickstart](https://github.com/tide-foundation/tidecloak-js/blob/main/packages/tidecloak-create-nextjs/README.md#quickstart)** | Bare-bones Next.JS app secure by TideCloak |
-| **[NextJS SDK](https://github.com/tide-foundation/tidecloak-js/blob/main/packages/tidecloak-nextjs/README.md)** | Full Next.JS + TideCloak integration guide |
+| **[Playground Demo](https://github.com/tide-foundation/tidecloak-playground)** | Your window into the worry free future for developers (one click setup in Codespaces) |
+| **[Next.JS Quickstart](https://github.com/tide-foundation/tidecloak-js/blob/main/packages/tidecloak-create-nextjs/README.md#quickstart)** | Bare-bones Next.JS app secure by TideCloak |
+| **[Next.JS SDK](https://github.com/tide-foundation/tidecloak-js/blob/main/packages/tidecloak-nextjs/README.md)** | Full Next.JS + TideCloak integration guide |
 | **[React Quickstart](https://github.com/tide-foundation/tidecloak-gettingstarted)** | Bare-bones React app secure by TideCloak |
 | **[React SDK](https://github.com/tide-foundation/tidecloak-js/blob/main/packages/tidecloak-react/README.md)** | Full React + TideCloak integration guide |
 | 📰 **[TideCloak Docs](https://docs.tidecloak.com/docs/intro)** | What you think it is |
