@@ -10,7 +10,7 @@ An open-code Identity, **Immunity**, and Access Management system that removes t
 
 | Resource | Description |
 |---|---|
-| **[Playground Demo](https://github.com/tide-foundation/tidecloak-playground)** | Your window into the worry free future for developers (one click setup in Codespaces) |
+| **[Playground Demo](https://github.com/tide-foundation/tidecloak-playground)** | One click TideCloak setup in Codespaces to preview the worry free future of devs |
 | **[Next.JS Quickstart](https://github.com/tide-foundation/tidecloak-js/blob/main/packages/tidecloak-create-nextjs/README.md#quickstart)** | Bare-bones Next.JS app secure by TideCloak |
 | **[Next.JS SDK](https://github.com/tide-foundation/tidecloak-js/blob/main/packages/tidecloak-nextjs/README.md)** | Full Next.JS + TideCloak integration guide |
 | **[React Quickstart](https://github.com/tide-foundation/tidecloak-gettingstarted)** | Bare-bones React app secure by TideCloak |
