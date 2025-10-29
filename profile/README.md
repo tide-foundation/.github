@@ -15,7 +15,7 @@ An open-code Identity, **Immunity**, and Access Management system that removes t
 | **[Next.JS SDK](https://github.com/tide-foundation/tidecloak-js/blob/main/packages/tidecloak-nextjs/README.md)** | Full Next.JS + TideCloak integration guide |
 | **[React Quickstart](https://github.com/tide-foundation/tidecloak-gettingstarted)** | Bare-bones React app secure by TideCloak |
 | **[React SDK](https://github.com/tide-foundation/tidecloak-js/blob/main/packages/tidecloak-react/README.md)** | Full React + TideCloak integration guide |
-| 📰 **[TideCloak Docs](https://docs.tidecloak.com/docs/intro)** | What you think it is |
+| 📰 **[TideCloak Docs](https://docs.tidecloak.com/)** | What you think it is |
 
 📌 **[Reimagining Cybersecurity for Developers](https://tide.org/blog/rethinking-cybersecurity-for-developers)** Read our op-ed on our technology & underlying philosophy
 
